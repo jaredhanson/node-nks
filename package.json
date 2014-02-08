@@ -1,6 +1,6 @@
 {
   "name": "nks",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Find keys and certificates in network key services.",
   "keywords": [
     "pki"
