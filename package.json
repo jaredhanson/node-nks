@@ -29,8 +29,9 @@
     "debug": "0.7.x"
   },
   "devDependencies": {
-    "mocha": "1.x.x",
-    "chai": "1.x.x"
+    "make-node": "0.3.x",
+    "mocha": "2.x.x",
+    "chai": "3.x.x"
   },
   "engines": {
     "node": "*"
